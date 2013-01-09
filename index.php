@@ -1,6 +1,6 @@
 <?php
 print "GOTCHA!";
-
+hacked();
 funkyfunction();
 die;
 /**
